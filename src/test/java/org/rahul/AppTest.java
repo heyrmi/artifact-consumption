@@ -1,4 +1,4 @@
-package org.example;
+package org.rahul;
 
 
 import org.testng.annotations.Test;
