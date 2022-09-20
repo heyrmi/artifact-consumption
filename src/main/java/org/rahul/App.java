@@ -5,7 +5,7 @@ package org.rahul;
  *
  */
 public class App {
-    public void printMyName(String name) {
-        System.out.println("Hi " + name + ", How have you been?");
+    public String printMyName(String name) {
+        return "Hi " + name + ", How are you?";
     }
 }
