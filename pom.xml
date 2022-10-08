@@ -6,7 +6,7 @@
 
   <groupId>org.heyrmi</groupId>
   <artifactId>artifact-consumption</artifactId>
-  <version>0.0.7</version>
+  <version>0.0.8</version>
 
   <name>artifact-consumption</name>
   <!-- FIXME change it to the project's website -->

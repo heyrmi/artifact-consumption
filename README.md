@@ -1,6 +1,6 @@
-## Artifact Consumption
+## Publishing Artifact
 
 This is a sample project which will check for:
 
-- Github Artifact Repository
+- Publishing Artifact in Github Artifact Repository
 - Usage of the artifacts if the repository is private
